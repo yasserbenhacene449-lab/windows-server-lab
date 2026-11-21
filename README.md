@@ -1,4 +1,4 @@
-# 🪟 Windows Server Administration & Active Directory Journey
+# 🖥️ Windows Server Administration & Active Directory Journey
 
 Welcome to my daily learning log. This repository is dedicated to documenting my practical journey from zero to mastering Windows Server Administration and Active Directory fundamentals. My goal is to build a solid technical foundation tailored for enterprise environments and upcoming career milestones.
 
